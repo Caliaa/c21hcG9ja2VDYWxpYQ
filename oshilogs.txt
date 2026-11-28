@@ -12,35 +12,43 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Calia =====
-[1]Calia       |09:30:01 | 27-11-2026| login OK @rcaliaa | score=3650 rank=2004
-[1]Calia       |09:30:01 | 27-11-2026| serverTime=2026-11-27T09:30:01.000Z local=2026-11-27T09:30:01.927Z
+[1]Calia       |08:43:03 | 28-11-2026| login OK @rcaliaa | score=3670 rank=2002
+[1]Calia       |08:43:03 | 28-11-2026| serverTime=2026-11-28T08:43:03.000Z local=2026-11-28T08:43:03.443Z
 --> [1]Calia menjalankan: Claim Daily
-[1]Calia       |09:30:03 | 27-11-2026| daily: OK +10 poin score=3660
---> [1]Calia menjalankan: Auto All Tasks (1 pending)
-[1]Calia       |09:30:05 | 27-11-2026| [1/1] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212593152719651 | proof=https://x.com/rcaliaa/status/2126246598274091200
-[1]Calia       |09:30:05 | 27-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Calia       |09:30:06 | 27-11-2026| [1/1] dfcc39bb (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"dfcc39bb-f2a7-4f71-9a1b-fa722a1df07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2125931527196512 | proof=https://x.com/rcaliaa/status/2126246852797072052
+[1]Calia       |08:43:05 | 28-11-2026| daily: OK +10 poin score=3680
+--> [1]Calia menjalankan: Auto All Tasks (5 pending)
+[1]Calia       |08:43:07 | 28-11-2026| [1/5] 1d1eb12c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/rcaliaa/status/2126597197620849073
+[1]Calia       |08:43:07 | 28-11-2026| delay 10s...
+[1]Calia       |08:43:19 | 28-11-2026| [2/5] a0bc0e58 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/rcaliaa/status/2126597231314588650
+[1]Calia       |08:43:19 | 28-11-2026| delay 10s...
+[1]Calia       |08:43:32 | 28-11-2026| [3/5] 3f5fb2d5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/rcaliaa/status/2126597324746162042
+[1]Calia       |08:43:32 | 28-11-2026| delay 10s...
+[1]Calia       |08:43:44 | 28-11-2026| [4/5] 3f5ce0b6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/rcaliaa/status/2126597444416467471
+[1]Calia       |08:43:44 | 28-11-2026| delay 10s...
+[1]Calia       |08:43:56 | 28-11-2026| [5/5] 4cdfafa2 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"212657261624082 | proof=https://x.com/rcaliaa/status/2126597394532590346
+[1]Calia       |08:43:56 | 28-11-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Calia       |08:43:58 | 28-11-2026| [1/1] 1d1eb12c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"1d1eb12c-2935-461a-908e-f7700de8184a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2126572616240824 | proof=https://x.com/rcaliaa/status/2126597690731329331
 --> [1]Calia menjalankan: Watch Anime
-[1]Calia       |09:30:06 | 27-11-2026| watch: semua video sudah completed
+[1]Calia       |08:43:58 | 28-11-2026| watch: semua video sudah completed
 --> [1]Calia menjalankan: Read Article
-[1]Calia       |09:30:07 | 27-11-2026| news: 35/35 artikel selesai dibaca
-[1]Calia       |09:30:08 | 27-11-2026| mint eligibility: {"userId":"1620359900529561601","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rcalia","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nul
-[1]Calia       |09:30:08 | 27-11-2026| news: semua artikel sudah dibaca
+[1]Calia       |08:43:59 | 28-11-2026| news: 35/35 artikel selesai dibaca
+[1]Calia       |08:44:00 | 28-11-2026| mint eligibility: {"userId":"1620359900529561601","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@rcalia","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":nul
+[1]Calia       |08:44:00 | 28-11-2026| news: semua artikel sudah dibaca
 --> [1]Calia menjalankan: Quiz Anime
 --> [1]Calia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Calia       |09:30:09 | 27-11-2026| music: kedua misi sudah tercapai, stop
-[1]Calia       |09:30:09 | 27-11-2026| mission music-listens-10: sudah diklaim
-[1]Calia       |09:30:09 | 27-11-2026| mission music-minutes-30: sudah diklaim
-[1]Calia       |09:30:09 | 27-11-2026| mission anime-completed-3: sudah diklaim
+[1]Calia       |08:44:01 | 28-11-2026| music: kedua misi sudah tercapai, stop
+[1]Calia       |08:44:01 | 28-11-2026| mission music-listens-10: sudah diklaim
+[1]Calia       |08:44:01 | 28-11-2026| mission music-minutes-30: sudah diklaim
+[1]Calia       |08:44:01 | 28-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Calia menjalankan: Claim Missions
-[1]Calia       |09:30:09 | 27-11-2026| mission music-listens-10: sudah diklaim
-[1]Calia       |09:30:09 | 27-11-2026| mission music-minutes-30: sudah diklaim
-[1]Calia       |09:30:09 | 27-11-2026| mission anime-completed-3: sudah diklaim
+[1]Calia       |08:44:02 | 28-11-2026| mission music-listens-10: sudah diklaim
+[1]Calia       |08:44:02 | 28-11-2026| mission music-minutes-30: sudah diklaim
+[1]Calia       |08:44:02 | 28-11-2026| mission anime-completed-3: sudah diklaim
 --> [1]Calia menjalankan: Check Eligibility
 
 --- eligibility [1]Calia ---
-  @rcaliaa | score=3650 rank=2004
-  tasks    [#################---] 5/6
+  @rcaliaa | score=3670 rank=2002
+  tasks    [##########----------] 5/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -51,17 +59,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Calia menjalankan: Read Manga
-[1]Calia       |09:30:12 | 27-11-2026| manga: 0/13 chapter belum completed
+[1]Calia       |08:44:05 | 28-11-2026| manga: 0/13 chapter belum completed
 --> [1]Calia menjalankan: Get Gift
-[1]Calia       |09:30:14 | 27-11-2026| gift: 3/12 belum diterima
-[1]Calia       |09:30:14 | 27-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Calia       |09:30:17 | 27-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
-[1]Calia       |09:30:19 | 27-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Calia       |08:44:07 | 28-11-2026| gift: 3/12 belum diterima
+[1]Calia       |08:44:08 | 28-11-2026| gift room-oshii-birthday-cake-20261202: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Calia       |08:44:10 | 28-11-2026| gift room-hologram-projector-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
+[1]Calia       |08:44:13 | 28-11-2026| gift room-oshii-bottle-20261102: GAGAL http=403 resp={"error":"OSHI NFTを持っている家族だけが受け取れるプレゼントです。"}
 --> [1]Calia menjalankan: Setup Profile
-[1]Calia       |09:30:22 | 27-11-2026| profile: bio="https://x.com/rcaliaa" fav=amato rewardAt=1791682103
-[1]Calia       |09:30:22 | 27-11-2026| profile: bonus sudah diklaim, skip
+[1]Calia       |08:44:15 | 28-11-2026| profile: bio="https://x.com/rcaliaa" fav=amato rewardAt=1791682103
+[1]Calia       |08:44:15 | 28-11-2026| profile: bonus sudah diklaim, skip
 --> [1]Calia menjalankan: Bind Wallet
-[1]Calia       |09:30:22 | 27-11-2026| wallet: sudah terikat jskfqpGSMx... (solana)
+[1]Calia       |08:44:16 | 28-11-2026| wallet: sudah terikat jskfqpGSMx... (solana)
 
 == RINGKASAN ==
-- Calia: daily=claimed | tasks OK 2/2 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
+- Calia: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/12 diterima | profile - | wallet bound | mint req=false open=false
